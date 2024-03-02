@@ -1,0 +1,34 @@
+#cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+};
+
+.card {
+    width: 18rem;
+    margin: 10px;
+};
+/* {
+    float: right ;
+    background-color: white;
+} */
+
+label {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 15px;
+    
+}
+input{
+    width: 25%;
+}
+
+.social{
+   
+    margin: 10px ;
+    float: left;
+    color: aliceblue;
+    
+    
+    
+}
